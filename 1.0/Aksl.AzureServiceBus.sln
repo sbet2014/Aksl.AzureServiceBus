@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{F36146CA-52A8-4162-AB32-DAF5D86BFF6B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.Azure.ServiceBus", "Microsoft.Azure.ServiceBus\Microsoft.Azure.ServiceBus.csproj", "{27608BE8-7C75-445C-9A8C-FD5C5D15E8C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aksl.Concurrency", "..\Aksl.Concurrency\Aksl.Concurrency.csproj", "{88F57CDA-B3B5-4757-B02B-82F29CC82F99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aksl.AzureServiceBus", "Aksl.AzureServiceBus\Aksl.AzureServiceBus.csproj", "{23226C96-6B8C-4529-89CE-70D49EB74320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aksl.AzureServiceBus.Queue", "Aksl.AzureServiceBus.Queue\Aksl.AzureServiceBus.Queue.csproj", "{5FB85117-DAAC-4266-A293-EF3ABB7A40F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aksl.AzureServiceBus.Message", "Aksl.AzureServiceBus.Message\Aksl.AzureServiceBus.Message.csproj", "{576654E4-D99A-448C-A1A8-E925765BECFC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue.Sender", "Samples\Queue.Sender\Queue.Sender.csproj", "{66634E08-99EC-4949-8D11-DE094AF95D43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27608BE8-7C75-445C-9A8C-FD5C5D15E8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27608BE8-7C75-445C-9A8C-FD5C5D15E8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27608BE8-7C75-445C-9A8C-FD5C5D15E8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27608BE8-7C75-445C-9A8C-FD5C5D15E8C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88F57CDA-B3B5-4757-B02B-82F29CC82F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F57CDA-B3B5-4757-B02B-82F29CC82F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F57CDA-B3B5-4757-B02B-82F29CC82F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F57CDA-B3B5-4757-B02B-82F29CC82F99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23226C96-6B8C-4529-89CE-70D49EB74320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23226C96-6B8C-4529-89CE-70D49EB74320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23226C96-6B8C-4529-89CE-70D49EB74320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23226C96-6B8C-4529-89CE-70D49EB74320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB85117-DAAC-4266-A293-EF3ABB7A40F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB85117-DAAC-4266-A293-EF3ABB7A40F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB85117-DAAC-4266-A293-EF3ABB7A40F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB85117-DAAC-4266-A293-EF3ABB7A40F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{576654E4-D99A-448C-A1A8-E925765BECFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576654E4-D99A-448C-A1A8-E925765BECFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576654E4-D99A-448C-A1A8-E925765BECFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576654E4-D99A-448C-A1A8-E925765BECFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66634E08-99EC-4949-8D11-DE094AF95D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66634E08-99EC-4949-8D11-DE094AF95D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66634E08-99EC-4949-8D11-DE094AF95D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66634E08-99EC-4949-8D11-DE094AF95D43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{66634E08-99EC-4949-8D11-DE094AF95D43} = {F36146CA-52A8-4162-AB32-DAF5D86BFF6B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E41FCFE-92BA-40A9-8530-C8312B9162F6}
+	EndGlobalSection
+EndGlobal

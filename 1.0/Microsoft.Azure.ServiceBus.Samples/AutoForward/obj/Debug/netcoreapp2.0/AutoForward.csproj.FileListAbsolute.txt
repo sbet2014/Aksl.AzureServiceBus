@@ -1,0 +1,15 @@
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus.Samples\AutoForward\obj\Debug\netcoreapp2.0\AutoForward.csprojResolveAssemblyReference.cache
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus.Samples\AutoForward\obj\Debug\netcoreapp2.0\AutoForward.csproj.CoreCompileInputs.cache
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus.Samples\AutoForward\obj\Debug\netcoreapp2.0\AutoForward.AssemblyInfoInputs.cache
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus.Samples\AutoForward\obj\Debug\netcoreapp2.0\AutoForward.AssemblyInfo.cs
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus.Samples\AutoForward\bin\Debug\netcoreapp2.0\AutoForward.deps.json
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus.Samples\AutoForward\bin\Debug\netcoreapp2.0\AutoForward.runtimeconfig.json
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus.Samples\AutoForward\bin\Debug\netcoreapp2.0\AutoForward.runtimeconfig.dev.json
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus.Samples\AutoForward\bin\Debug\netcoreapp2.0\AutoForward.dll
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus.Samples\AutoForward\bin\Debug\netcoreapp2.0\AutoForward.pdb
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus.Samples\AutoForward\bin\Debug\netcoreapp2.0\Microsoft.Azure.ServiceBus.dll
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus.Samples\AutoForward\bin\Debug\netcoreapp2.0\Microsoft.Azure.ServiceBus.pdb
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus.Samples\AutoForward\bin\Debug\netcoreapp2.0\Microsoft.Azure.ServiceBus.xml
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus.Samples\AutoForward\obj\Debug\netcoreapp2.0\AutoForward.csproj.CopyComplete
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus.Samples\AutoForward\obj\Debug\netcoreapp2.0\AutoForward.dll
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus.Samples\AutoForward\obj\Debug\netcoreapp2.0\AutoForward.pdb

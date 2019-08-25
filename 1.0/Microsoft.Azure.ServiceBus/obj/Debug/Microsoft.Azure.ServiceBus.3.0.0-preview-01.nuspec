@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Azure.ServiceBus</id>
+    <version>3.0.0-preview-01</version>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/Azure/azure-service-bus-dotnet</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/Azure/azure-service-bus-dotnet/master/service-bus.png</iconUrl>
+    <description>This is the next generation Azure Service Bus .NET Standard client library that focuses on queues &amp; topics. For more information about Service Bus, see https://azure.microsoft.com/en-us/services/service-bus/</description>
+    <releaseNotes>https://github.com/Azure/azure-service-bus-dotnet/releases</releaseNotes>
+    <tags>Azure Service Bus ServiceBus .NET AMQP IoT Queue Topic</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Azure.Amqp" version="2.4.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Azure.Services.AppAuthentication" version="1.1.0-preview" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.IdentityModel.Clients.ActiveDirectory" version="5.0.5" exclude="Build,Analyzers" />
+        <dependency id="System.Diagnostics.DiagnosticSource" version="4.5.1" exclude="Build,Analyzers" />
+        <dependency id="System.IdentityModel.Tokens.Jwt" version="5.4.0" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime.Serialization.Xml" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\bin\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.pdb" target="lib\netstandard2.0\Microsoft.Azure.ServiceBus.pdb" />
+    <file src="D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\bin\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.dll" target="lib\netstandard2.0\Microsoft.Azure.ServiceBus.dll" />
+    <file src="D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\bin\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.xml" target="lib\netstandard2.0\Microsoft.Azure.ServiceBus.xml" />
+  </files>
+</package>

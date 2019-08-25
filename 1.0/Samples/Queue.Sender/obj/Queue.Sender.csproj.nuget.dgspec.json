@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TrainingKits\\Aksl\\Aksl.AzureServiceBus\\Samples\\Queue.Sender\\Queue.Sender.csproj": {}
+  },
+  "projects": {
+    "D:\\TrainingKits\\Aksl\\Aksl.AzureServiceBus\\Samples\\Queue.Sender\\Queue.Sender.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TrainingKits\\Aksl\\Aksl.AzureServiceBus\\Samples\\Queue.Sender\\Queue.Sender.csproj",
+        "projectName": "Queue.Sender",
+        "projectPath": "D:\\TrainingKits\\Aksl\\Aksl.AzureServiceBus\\Samples\\Queue.Sender\\Queue.Sender.csproj",
+        "packagesPath": "C:\\Users\\zheng\\.nuget\\packages\\",
+        "outputPath": "D:\\TrainingKits\\Aksl\\Aksl.AzureServiceBus\\Samples\\Queue.Sender\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "D:\\TrainingKits\\Aksl\\Aksl.AzureServiceBus\\Aksl.AzureServiceBus.Queue\\Aksl.AzureServiceBus.Queue.csproj": {
+                "projectPath": "D:\\TrainingKits\\Aksl\\Aksl.AzureServiceBus\\Aksl.AzureServiceBus.Queue\\Aksl.AzureServiceBus.Queue.csproj"
+              },
+              "D:\\TrainingKits\\Aksl\\Aksl.AzureServiceBus\\Microsoft.Azure.ServiceBus\\Microsoft.Azure.ServiceBus.csproj": {
+                "projectPath": "D:\\TrainingKits\\Aksl\\Aksl.AzureServiceBus\\Microsoft.Azure.ServiceBus\\Microsoft.Azure.ServiceBus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.9, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

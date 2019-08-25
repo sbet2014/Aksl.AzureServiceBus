@@ -1,0 +1,13 @@
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\obj\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.Resources.resources
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\obj\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.csproj.GenerateResource.Cache
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\obj\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.csproj.CoreCompileInputs.cache
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\obj\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.AssemblyInfoInputs.cache
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\obj\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.AssemblyInfo.cs
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\bin\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.deps.json
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\bin\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.dll
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\bin\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.pdb
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\bin\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.xml
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\obj\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.dll
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\obj\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.xml
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\obj\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.pdb
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\obj\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.csprojAssemblyReference.cache

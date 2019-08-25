@@ -1,0 +1,4 @@
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Samples\Queue.Sender\obj\Debug\netcoreapp2.0\win10-x64\Queue.Sender.csprojResolveAssemblyReference.cache
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Samples\Queue.Sender\obj\Debug\netcoreapp2.0\win10-x64\Queue.Sender.csproj.CoreCompileInputs.cache
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Samples\Queue.Sender\obj\Debug\netcoreapp2.0\win10-x64\Queue.Sender.AssemblyInfoInputs.cache
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Samples\Queue.Sender\obj\Debug\netcoreapp2.0\win10-x64\Queue.Sender.AssemblyInfo.cs

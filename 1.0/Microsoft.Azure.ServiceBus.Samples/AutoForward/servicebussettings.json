@@ -1,0 +1,16 @@
+﻿{
+  "serviceBusSettings": {
+    "autoForwardSourceTopic": {
+      "connectionString": "Endpoint=sb://aksl.servicebus.chinacloudapi.cn/;EntityPath=AutoForwardSourceTopic;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=nPzdNN%2Gli0ifrfJwaK4mkK0RqAB",
+      "namespaceConnectionString": "Endpoint=sb://aksl.servicebus.chinacloudapi.cn/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=nPzdNN%2Gli0ifrfJwaK4mkK0RqAB",
+      "entityPath": "AutoForwardSourceTopic",
+      "operationTimeout": "5"
+    },
+    "autoForwardTargetQueue": {
+      "connectionString": "Endpoint=sb://aksl.servicebus.chinacloudapi.cn/;EntityPath=AutoForwardTargetQueue;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=nPzdNN%2Gli0ifrfJwaK4mkK0RqAB",
+      "namespaceConnectionString": "Endpoint=sb://aksl.servicebus.chinacloudapi.cn/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=nPzdNN%2Gli0ifrfJwaK4mkK0RqAB",
+      "entityPath": "AutoForwardTargetQueue",
+      "operationTimeout": "5"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\obj\Debug\net461\Microsoft.Azure.ServiceBus.csprojResolveAssemblyReference.cache
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\obj\Debug\net461\Microsoft.Azure.ServiceBus.Resources.resources
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\obj\Debug\net461\Microsoft.Azure.ServiceBus.csproj.GenerateResource.Cache
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\obj\Debug\net461\Microsoft.Azure.ServiceBus.csproj.CoreCompileInputs.cache
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\obj\Debug\net461\Microsoft.Azure.ServiceBus.AssemblyInfoInputs.cache
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Microsoft.Azure.ServiceBus\obj\Debug\net461\Microsoft.Azure.ServiceBus.AssemblyInfo.cs

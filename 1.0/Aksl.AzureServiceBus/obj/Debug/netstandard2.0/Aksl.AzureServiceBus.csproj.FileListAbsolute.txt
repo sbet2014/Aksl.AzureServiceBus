@@ -1,0 +1,15 @@
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Aksl.AzureServiceBus\obj\Debug\netstandard2.0\Aksl.AzureServiceBus.csprojResolveAssemblyReference.cache
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Aksl.AzureServiceBus\obj\Debug\netstandard2.0\Aksl.AzureServiceBus.csproj.CoreCompileInputs.cache
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Aksl.AzureServiceBus\obj\Debug\netstandard2.0\Aksl.AzureServiceBus.AssemblyInfoInputs.cache
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Aksl.AzureServiceBus\obj\Debug\netstandard2.0\Aksl.AzureServiceBus.AssemblyInfo.cs
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Aksl.AzureServiceBus\bin\Debug\netstandard2.0\Aksl.AzureServiceBus.deps.json
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Aksl.AzureServiceBus\bin\Debug\netstandard2.0\Aksl.AzureServiceBus.dll
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Aksl.AzureServiceBus\bin\Debug\netstandard2.0\Aksl.AzureServiceBus.pdb
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Aksl.AzureServiceBus\bin\Debug\netstandard2.0\Aksl.Concurrency.dll
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Aksl.AzureServiceBus\bin\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.dll
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Aksl.AzureServiceBus\bin\Debug\netstandard2.0\Aksl.Concurrency.pdb
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Aksl.AzureServiceBus\bin\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.pdb
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Aksl.AzureServiceBus\bin\Debug\netstandard2.0\Microsoft.Azure.ServiceBus.xml
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Aksl.AzureServiceBus\obj\Debug\netstandard2.0\Aksl.AzureServiceBus.dll
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Aksl.AzureServiceBus\obj\Debug\netstandard2.0\Aksl.AzureServiceBus.pdb
+D:\TrainingKits\Aksl\Aksl.AzureServiceBus\Aksl.AzureServiceBus\obj\Debug\netstandard2.0\Aksl.AzureServiceBus.csproj.CopyComplete

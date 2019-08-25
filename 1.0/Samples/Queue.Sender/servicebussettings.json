@@ -1,0 +1,24 @@
+﻿{
+  "serviceBusSettings": {
+    "queues": {
+      "aksl": {
+        "connectionString": "Endpoint=sb://aksl.servicebus.chinacloudapi.cn/;EntityPath=aksl;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=nPzdNN%2Gli0ifrfJwaK4mkK0RqAB;OperationTimeout=1",
+        "messageHandlerOptions": {
+          "maxConcurrentCalls": "1",
+          "autoComplete": "true",
+          "receiveTimeOut": "1",
+          "maxAutoRenewDuration": "5"
+        }
+      },
+      "sbet": {
+        "connectionString": "Endpoint=sb://aksl.servicebus.chinacloudapi.cn/;EntityPath=sbet;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=nPzdNN%2Gli0ifrfJwaK4mkK0RqAB;OperationTimeout=1",
+        "messageHandlerOptions": {
+          "maxConcurrentCalls": "1",
+          "autoComplete": "true",
+          "receiveTimeOut": "1",
+          "maxAutoRenewDuration": "5"
+        }
+      }
+    }
+  }
+}

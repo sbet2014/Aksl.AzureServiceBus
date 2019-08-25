@@ -1,0 +1,14 @@
+﻿{
+  "serviceBusSettings": {
+    "aksl": {
+      "connectionString": "Endpoint=sb://aksl.servicebus.chinacloudapi.cn/;EntityPath=cq.spb;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=nPzdNN%2Gli0ifrfJwaK4mkK0RqAB",
+      "queueName": "cq-spb",
+      "operationTimeout": "5"
+    },
+    "sbet": {
+      "connectionString": "Endpoint=sb://sbet.servicebus.chinacloudapi.cn/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=nPzdNN%2Gli0ifrfJwaK4mkK0RqAB",
+      "queueName": "cq-yz",
+      "operationTimeout": "5"
+    }
+  }
+}
